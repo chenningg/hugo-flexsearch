@@ -1,18 +1,15 @@
 {
   "name": "hugo-flexsearch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A full text search for Hugo sites using Flexsearch.",
   "main": "src/hugo-flexsearch.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chenningg/hugo-flexsearch/git"
-  },
+  "repository": "https://github.com/chenningg/hugo-flexsearch/",
   "author": "chenningg",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/chenningg/hugo-flexsearch/issues"
   },
-  "homepage": "https://github.com/chenningg/hugo-flexsearch#readme",
+  "homepage": "https://github.com/chenningg/hugo-flexsearch/",
   "private": false,
   "keywords": [
     "hugo",
